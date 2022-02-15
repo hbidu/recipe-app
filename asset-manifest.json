@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hbidu/recipe-app/static/css/main.d920d27d.css",
-    "main.js": "/hbidu/recipe-app/static/js/main.8d25d1e3.js",
-    "static/js/787.13aee4be.chunk.js": "/hbidu/recipe-app/static/js/787.13aee4be.chunk.js",
-    "index.html": "/hbidu/recipe-app/index.html",
-    "main.d920d27d.css.map": "/hbidu/recipe-app/static/css/main.d920d27d.css.map",
-    "main.8d25d1e3.js.map": "/hbidu/recipe-app/static/js/main.8d25d1e3.js.map",
-    "787.13aee4be.chunk.js.map": "/hbidu/recipe-app/static/js/787.13aee4be.chunk.js.map"
+    "main.css": "/recipe-app/static/css/main.d920d27d.css",
+    "main.js": "/recipe-app/static/js/main.199cdcd6.js",
+    "static/js/787.13aee4be.chunk.js": "/recipe-app/static/js/787.13aee4be.chunk.js",
+    "index.html": "/recipe-app/index.html",
+    "main.d920d27d.css.map": "/recipe-app/static/css/main.d920d27d.css.map",
+    "main.199cdcd6.js.map": "/recipe-app/static/js/main.199cdcd6.js.map",
+    "787.13aee4be.chunk.js.map": "/recipe-app/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d920d27d.css",
-    "static/js/main.8d25d1e3.js"
+    "static/js/main.199cdcd6.js"
   ]
 }
