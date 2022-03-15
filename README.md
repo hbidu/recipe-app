@@ -27,7 +27,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/hbidu">
-        ![index](https://user-images.githubusercontent.com/95511751/158404855-9269baf3-ea6a-47f6-830d-c5ec2d1ab863.png) <br>
+       <br>
         <sub>
           <b>Henrique Bidu</b>
         </sub>
